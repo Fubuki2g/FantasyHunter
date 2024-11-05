@@ -9,6 +9,13 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+/[Aa]ssets/Font/*
+/[Aa]ssets/Cartoon Heroes/*
+/[Aa]ssets/Fantasy Adventure Environment/*
+/[Aa]ssets/FourEvilDragonsPBR/*
+/[Aa]ssets/GUIPack-Clean&Minimalist/*
+/[Aa]ssets/Platform_Animation/*
+/[Aa]ssets/PolygonParticleFX/*
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
